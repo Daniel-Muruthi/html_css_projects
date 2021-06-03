@@ -1,0 +1,39 @@
+ul{
+    list-style-type:circle;
+    margin-left: auto;
+    margin-right: auto;
+    display:list-item;
+    font-size:medium;
+    text-align:justify;
+}
+li{
+    color:#206ebc;
+    font-size:24px;
+}
+h3{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+p{
+    color: #cc00bb;
+    font-size:23px;
+}
+ul{
+    list-style-type:circle;
+    margin-left: auto;
+    margin-right: auto;
+    display:list-item;
+    font-size:medium;
+    text-align:justify;
+}
+
+h3{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+p{
+    color: #cc00bb;
+    font-size:23px;
+}

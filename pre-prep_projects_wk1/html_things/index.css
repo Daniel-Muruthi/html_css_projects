@@ -1,0 +1,30 @@
+*{
+    font-style:italic;
+}
+h1 {
+    font-family:'Times New Roman', cursive;
+    color: blue;
+    text-align: center;
+}
+
+p{
+    font-family:'Times New Romans', cursive;
+    color: orange;
+    text-align: center;
+    font-size:26px;
+}
+
+ol {
+    list-style-type:decimal;
+    display:table;
+    margin-left:auto;
+    margin-right:auto;
+    list-style-position:inherit;
+    font-size:25px;
+}
+li {
+    font-family:'Times New Roman',cursive;
+    color: black;
+    font-style:bold;
+    text-align:justify;
+}

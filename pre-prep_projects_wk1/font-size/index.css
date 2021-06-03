@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255,255,234);
+    font-style:italic;
+}
+h2{
+    font-size: large;
+}
+p{
+    font-size:medium;
+    color: rgb(114, 111, 134);
+}
+li{
+    font-size:small;
+}
