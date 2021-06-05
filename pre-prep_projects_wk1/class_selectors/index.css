@@ -1,0 +1,51 @@
+body{
+    margin:0 auto; 
+    padding: 8px;
+    text-align:center;
+    background-color: rgb(240, 250, 240);
+    display: block;
+    color:green;
+}
+.article{
+    line-height: 1.4em;
+    font-family: Trebuchet MS;
+    color: blue;
+    border: 1px solid green;
+    padding: 10px;
+    background-color: rgb(250, 250, 250)
+}
+.note{
+    border: 1px solid blue;
+}
+.summary{
+    font-style:italic;
+}
+a.note{
+    font-weight:bolder;
+}
+p.short-note{
+    font-weight:bolder;
+}
+div{
+    background-color:bisque;
+    border:2px dotted blue;
+}
+span{
+    font-size:xx-large;
+}
+#pine{
+    background-clip: content-box;
+    padding:30px;
+    border:2px solid red;
+    line-height:17px;
+}
+a:link{
+    background-color:cornsilk;
+}
+a:visited{
+    background-color:darkgray;
+}
+a:hover{
+    text-decoration:line-through;
+}
+a:fi
