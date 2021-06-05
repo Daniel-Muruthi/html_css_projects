@@ -1,0 +1,7 @@
+body, html{
+    margin:20px;
+    padding:0px;
+}
+p{
+    border: 3px solid grey;
+}

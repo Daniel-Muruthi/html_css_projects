@@ -1,0 +1,10 @@
+img{
+    display:block;
+}
+a{
+    display:block;
+}
+a:hover{
+    color:blue;
+    font-size:x-large;
+}

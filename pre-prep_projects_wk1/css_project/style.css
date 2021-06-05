@@ -1,0 +1,37 @@
+h1{
+    background-color: #d4d7f7;
+    margin-left:38px;
+    color: #63473e;
+    padding:20px 0px 20px 0px;
+    font-family:'papyrus', monospace,cursive;
+
+}
+img{
+    background-color: #e2ccac;
+    float:left;
+    margin:0px 10px 20px 0px;
+    padding:10px;
+    
+}
+li{
+    background-color: #e8e9f7;
+    overflow:auto;
+    clear:both;
+    margin:10px 0px 10px 0px;
+}
+a{
+    display: block;
+}
+a:hover {
+    color:green;
+    font-size:x-large;
+}
+h3{
+    color: #6b5f5b;
+    font-style:italic;
+    font-size:x-large;
+}
+p{
+    font-family:'papyrus', monospace, cursive;
+    font-weight: 600;
+}
