@@ -1,0 +1,22 @@
+#first{
+    height:300px;
+    width:300px;
+    border:2px dashed white;
+    background-image: url("[https://goo.gl/C2eDu1](https://goo.gl/C2eDu1)");
+    background-size:contain;
+}
+#second{
+    height:300px;
+    width:300px;
+    border:2px dashed red;
+    background-image: url("[https://goo.gl/ximnAL](https://goo.gl/ximnAL)");
+    background-size: cover;
+}
+#third{
+    height:300px;
+    width: 300px;
+    background-image: url("[https://goo.gl/QM8vR4](https://goo.gl/QM8vR4)");
+    background-size: 240px 240px;
+    background-position: center center;
+    background:;
+}

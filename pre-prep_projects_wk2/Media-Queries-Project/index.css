@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1900px){
+    div{
+        color:green;
+        font-size: 12px;
+        background-color:black;
+    }
+}
+div{
+    width:70%;
+    margin:auto;
+}

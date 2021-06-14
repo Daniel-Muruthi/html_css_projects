@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width:200px;
+    margin:5px;
+    background-color: rgb(255, 255,234);
+    background-clip:border-box;
+    box-shadow: 5px 5px 2em;
+    text-align: center;
+}
+.f-right{
+    float:right;
+}
+.f-left{
+    clear: none;
+}

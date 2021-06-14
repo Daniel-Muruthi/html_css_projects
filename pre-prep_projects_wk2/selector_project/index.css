@@ -1,0 +1,11 @@
+.first > p:first-child{
+    color: rgb(255,0,0);
+    font-size:24px;
+}
+.diff > p:first-child{
+    text-decoration: underline;
+}
+h1, p{
+    font-family: 'Comic sans', cursive;
+    font-size: x-large;
+}

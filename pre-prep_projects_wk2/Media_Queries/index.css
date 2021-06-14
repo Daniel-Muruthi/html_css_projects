@@ -1,0 +1,22 @@
+@media only screen and (min-width:500px){
+    body{
+        background-color: purple;
+        color:white;
+        text-align:center;
+    }
+    p{
+        font-size:xx-large;
+        padding:10px;
+        height:500px;
+        max-width:300px;
+        width:50%;
+        border:2px solid gold;
+        text-align:center;
+        box-sizing:border-box;
+    }
+
+}
+html{
+    display:flex;
+    justify-content: center;
+}

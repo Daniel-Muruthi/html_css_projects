@@ -1,0 +1,6 @@
+@media only screen and (orientation:portrait){
+    body{
+        font-size:20px;
+        background-color: red;
+    }
+}

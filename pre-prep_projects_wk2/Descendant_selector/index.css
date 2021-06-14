@@ -1,0 +1,19 @@
+header,p{
+    color:blue;
+    font-family:'Helvetica', cursive;
+}
+div p{
+    font-size:xx-large;
+    color: gold;
+}
+#answers p{
+    color:purple;
+    font-size: xx-large;
+}
+*{
+    text-align:center;
+    
+}
+div > p > span{
+    color:red;
+}

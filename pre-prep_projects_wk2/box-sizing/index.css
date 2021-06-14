@@ -1,0 +1,24 @@
+.first{
+    padding:20px;
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+    box-sizing: content-box;
+}
+.second{
+    padding:20px;
+    height: 200px;
+    width: 200px;
+    background-color:lightblue;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    
+}
+#join{
+    display:flex;
+    justify-content:space-around;
+}
+.second:hover{
+    box-shadow: 2px 2px 5px green;
+}
+
